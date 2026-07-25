@@ -1,4 +1,4 @@
-[demo.py](https://github.com/user-attachments/files/30366782/demo.py)
+
 # StudyMateAI
 # 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
 
