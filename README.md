@@ -22,6 +22,7 @@
 **StudyMate AI** is an AI-powered learning assistant acts as a complete study system designed to solve one of the biggest challenges students face: **lecture backlog** caused by lengthy, information-heavy PDF lectures. Many students postpone studying because traditional lecture PDFs are difficult to read, overwhelming, difficult to digest and time-consuming.
 
 This all-in-one comprehensive learning management and study assistant platform engineered to support students across every aspect of their academic journey by combining AI-powered note generation, summarization, question answering, quiz generation, and personalized study planning based on the number of days and study hours chosen by the student into a single platform, StudyMate AI makes studying faster, easier, and more effective while reducing the stress of dealing with heavy lecture PDFs.
+
 ---
 
 # ✨ Features
