@@ -1,3 +1,4 @@
+[demo.py](https://github.com/user-attachments/files/30366782/demo.py)
 # StudyMateAI
 # 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
 
@@ -103,6 +104,7 @@ Input your exam date and daily study hours to receive a personalized study sched
 # 📸 Demo
 
 Here is a quick look at **StudyMate AI** in action:
+<img width="3682" height="1550" alt="Screenshot 2026-07-25 051546" src="https://github.com/user-attachments/assets/e46b6cd9-1aca-4524-887d-7b8667e76c14" />
 
 <!-- Add your image here on GitHub -->
 
