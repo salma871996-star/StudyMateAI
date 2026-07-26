@@ -41,8 +41,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 3. إعدادات رابط الـ API والمفتاح السرّي
-API_URL = "https://volatile-rival-dreadful.ngrok-free.dev"
-API_KEY = "secret123"
+API_URL = " API URL "
+API_KEY = " API KEY "
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 # 4. الشريط الجانبي (Sidebar)
