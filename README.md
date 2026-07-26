@@ -56,23 +56,37 @@ This all-in-one comprehensive learning management and study assistant platform e
 
 ---
 
-# ⚙️ Installation 
+# ⚙️ Installation & Setup
 
-Follow these steps to set up and run **StudyMate AI** on your local machine.
-
-
+Follow these steps to set up and run **StudyMate AI** using **Kaggle** (for free GPU acceleration) and your local machine.
 
 ### 📋 Prerequisites
-* **Python 3.10+** installed on your system.
-* A free **Ngrok Account** and Authtoken (for backend tunneling).
+* **Python 3.10+** installed on your local system.
+* A free **[Kaggle](https://www.kaggle.com/)** account.
+* A free **[Ngrok](https://ngrok.com/)** account and Authtoken (for backend tunneling).
 
+### 1. Run the Backend on Kaggle (GPU)
+1. Open the Notebook on **Kaggle**.
+2. Enable GPU acceleration from the right panel: **Settings ➔ Accelerator ➔ GPU T4 x2**.
+3. Authenticate Ngrok and start the backend server.
+4. Copy the generated **Ngrok Public URL** printed in the output.
 
+### 2. Run the Streamlit Frontend (Locally)
+1. Open the project folder in **VS Code**.
+2. Open your local terminal and Install **Streamlit**:
+   ```bash
+   pip install streamlit 
+   ```
+3. install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the Streamlit application:
+   ```bash
+   python -m streamlit run studymate.py
+   ```
+5. Paste the Ngrok Public URL into the Streamlit app sidebar to establish the connection with the Kaggle GPU backend.
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/salma871996-star/StudyMate_AI.git
-cd StudyMate_AI
-```
 ---
 
 # 🚀 Usage Guide
